@@ -53,8 +53,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="AuthenticationServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="v4-AuthenticationServiceTests - mock.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RsaSecureToken\RsaSecureToken.csproj">
